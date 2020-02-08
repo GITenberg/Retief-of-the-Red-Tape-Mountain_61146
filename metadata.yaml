@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '35615'
     url: http://www.gutenberg.org/2009/agents/35615
     wikipedia: https://en.wikipedia.org/wiki/Jack_Gaughan
+covers:
+- cover_type: archival
+  image_path: 61146-h/images/cover.jpg
 creator:
   author:
     agent_name: Laumer, Keith
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24817
     wikipedia: http://en.wikipedia.org/wiki/Keith_Laumer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61146#Retief-of-the-Red-Tape-Mountain
 gutenberg_issued: '2020-01-11'
 gutenberg_type: Text
 identifiers:
