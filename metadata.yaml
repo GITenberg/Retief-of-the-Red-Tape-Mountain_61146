@@ -1,0 +1,45 @@
+_repo: Retief-of-the-Red-Tape-Mountain_61146
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gaughan, Jack
+    aliases:
+    - Gaughan
+    - Gaughan, John Brian Francis
+    birthdate: 1930
+    deathdate: 1985
+    gutenberg_agent_id: '35615'
+    url: http://www.gutenberg.org/2009/agents/35615
+    wikipedia: https://en.wikipedia.org/wiki/Jack_Gaughan
+creator:
+  author:
+    agent_name: Laumer, Keith
+    aliases:
+    - Laumer, John Keith
+    - Laumer, Kit
+    birthdate: 1925
+    deathdate: 1993
+    gutenberg_agent_id: '24817'
+    url: http://www.gutenberg.org/2009/agents/24817
+    wikipedia: http://en.wikipedia.org/wiki/Keith_Laumer
+description: ''
+gutenberg_issued: '2020-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Space colonies -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Retief (Fictitious character) -- Fiction'
+- !lcsh 'Diplomats -- Fiction'
+- !lcsh 'Life on other planets -- Fiction'
+- GITenberg
+title: Retief of the Red-Tape Mountain
+url: http://www.gutenberg.org/ebooks/61146
